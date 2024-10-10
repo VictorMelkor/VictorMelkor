@@ -27,7 +27,10 @@ Goiano, Servidor Público, Karateka, Geek, Graduando em Análise e Desenvolvimen
 
 <h2 align="center"> 📊 Estatísticas: </h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMelkor&langs_count=8)
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMelkor&langs_count=4)
 
 ![VictorMelkor GitHub stats](https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=dracula&rank_icon=github)
 
+</div>
