@@ -19,11 +19,15 @@ Goiano, Servidor Público, Karateka, Geek, Graduando em Análise e Desenvolvimen
 
 <h2 align="center">🤝 Redes Sociais e contato:</h2>
 
+<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victormelkor) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/VictorMelkor) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/VictorMelkor)
 
+</div>
 
 <h2 align="center"> 📊 Estatísticas: </h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMelkor&langs_count=8)]
 
-[![VictorMelkor GitHub stats](https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=dracula&rank_icon=github)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMelkor&langs_count=8)
+
+![VictorMelkor GitHub stats](https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=dracula&rank_icon=github)
 
