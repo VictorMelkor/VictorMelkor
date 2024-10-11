@@ -38,7 +38,7 @@ Goiano, Servidor Público, Karateka, Geek, Pai.
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&layout=compact&size_weight=0&count_weight=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&layout=compact&size_weight=0&count_weight=1&hide=shell,powershell,batchfile)
 
 ![VictorMelkor GitHub stats](https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=dracula&rank_icon=github)
 
