@@ -1,11 +1,5 @@
 <div align="center">
 
-# Saudações! Eu sou Victor Rodrigues 👋
-
-Atualmente, sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas e estou em uma transição de carreira focada em me aprofundar na linguagem Python. Minha busca por conhecimento me leva a explorar áreas como Análise de Dados e Desenvolvimento Back-end, onde pretendo contribuir de maneira significativa para projetos e equipes.
-
-Natural de Goiás, sou servidor público, karateka e entusiasta da cultura geek. Além de ser um pai orgulhoso, estou sempre motivado a aprender e a evoluir profissionalmente, buscando formas de aplicar meu conhecimento para criar soluções inovadoras e impactantes.
-
 <details>
 <summary><strong>English Description</strong></summary>
 
@@ -16,6 +10,12 @@ I am currently a student of Technology in Systems Analysis and Development, tran
 Originally from Goiás, I am a public servant, a karateka, and a geek culture enthusiast. As a proud father, I am always motivated to learn and evolve professionally, seeking ways to apply my knowledge to create innovative and impactful solutions.
 
 </details>
+
+# Saudações! Eu sou Victor Rodrigues 👋
+
+Atualmente, sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas e estou em uma transição de carreira focada em me aprofundar na linguagem Python. Minha busca por conhecimento me leva a explorar áreas como Análise de Dados e Desenvolvimento Back-end, onde pretendo contribuir de maneira significativa para projetos e equipes.
+
+Natural de Goiás, sou servidor público, karateka e entusiasta da cultura geek. Além de ser um pai orgulhoso, estou sempre motivado a aprender e a evoluir profissionalmente, buscando formas de aplicar meu conhecimento para criar soluções inovadoras e impactantes.
 
 </div>
 
