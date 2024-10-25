@@ -7,7 +7,7 @@ Atualmente, sou estudante de Tecnologia em Análise e Desenvolvimento de Sistema
 Natural de Goiás, sou servidor público, karateka e entusiasta da cultura geek. Além de ser um pai orgulhoso, estou sempre motivado a aprender e a evoluir profissionalmente, buscando formas de aplicar meu conhecimento para criar soluções inovadoras e impactantes.
 
 <details>
-<summary>English Description</summary>
+<summary><strong>English Description</strong></summary>
 
 Hello! I am Victor Rodrigues 👋
 
