@@ -1,52 +1,111 @@
 <div align="center">
+<h1 align="center">Victor Rodrigues 👋</h1>
+<h3 align="center">Desenvolvedor Python | Estudante de ADS | Futuro Fullstack</h3>
+
+<p align="center">
+  <a href="https://victormelkor.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-victormelkor.github.io-blue?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a> 
+  <img src="https://img.shields.io/badge/Buscando-Estágio%20e%20Projetos-blueviolet?style=for-the-badge&logo=handshake&logoColor=white" style="margin-left: 10px;" />
+</p>
+
+
+---
+
+### 👨‍💻 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição de carreira para atuar como desenvolvedor web fullstack.
+
+Atualmente, foco meu aprendizado em Python, Django, JavaScript e React, com o objetivo de construir aplicações modernas, escaláveis e bem estruturadas, tanto no front quanto no back-end.
+
+Tenho interesse especial por boas práticas de código, APIs REST, banco de dados relacionais, automação e ferramentas modernas de desenvolvimento.
+
+Natural de Goiás, atuo como servidor público, sou karateka, entusiasta da cultura geek e pai dedicado. Busco aplicar meu conhecimento em projetos reais, evoluir tecnicamente e colaborar com equipes de tecnologia em soluções que gerem impacto positivo.
 
 <details>
 <summary><strong>English Description</strong></summary>
 
-# Hello! I am Victor Rodrigues 👋
+### 👨‍💻 About me
 
-I am currently a student of Technology in Systems Analysis and Development, transitioning my career to deepen my knowledge in Python. My quest for knowledge drives me to explore areas such as Data Analysis and Back-end Development, where I aim to contribute significantly to projects and teams.
+I am currently a Systems Analysis and Development student, transitioning my career to become a fullstack web developer.
 
-Originally from Goiás, I am a public servant, a karateka, and a geek culture enthusiast. As a proud father, I am always motivated to learn and evolve professionally, seeking ways to apply my knowledge to create innovative and impactful solutions.
+My studies focus on Python, Django, JavaScript, and React, with the goal of building modern, scalable, and well-structured web applications — both front-end and back-end.
+
+I'm particularly interested in clean code practices, REST APIs, relational databases, automation, and modern dev tools.
+
+Originally from Goiás, Brazil, I work as a public servant, practice karate, enjoy geek culture, and am a proud father. I'm constantly seeking to apply my knowledge in real-world projects, improve technically, and contribute to impactful software solutions.
 
 </details>
 
-# Saudações! Eu sou Victor Rodrigues 👋
+---
 
-Atualmente, sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas e estou em uma transição de carreira focada em me aprofundar na linguagem Python. Minha busca por conhecimento me leva a explorar áreas como Análise de Dados e Desenvolvimento Back-end, onde pretendo contribuir de maneira significativa para projetos e equipes.
+### 🛠️ Tecnologias e Ferramentas em Estudo
 
-Natural de Goiás, sou servidor público, karateka e entusiasta da cultura geek. Além de ser um pai orgulhoso, estou sempre motivado a aprender e a evoluir profissionalmente, buscando formas de aplicar meu conhecimento para criar soluções inovadoras e impactantes.
+Atualmente estou estudando e praticando as seguintes tecnologias:
 
-</div>
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
+  <!-- Extras -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
-<h2 align="center">🖥️ Tecnologias e Ferramentas em Estudo:</h2>
-<div align="center" style="display: inline_block; margin: 10px;"><br/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<br>
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img align="center" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</div>
+</p>
 
-<h2 align="center">🤝 Redes Sociais e Contato:</h2>
+---
 
-<div align="center">
+### 📈 Progresso de Aprendizado
+```
+| Tecnologia    | Progresso |
+|---------------|-----------|
+| Python        | 80%       |
+| Django        | 80%       |
+| Git           | 60%       |
+| HTML          | 70%       |
+| CSS           | 80%       |
+| JavaScript    | 20%       |
+| PostgreSQL    | 5%        |
+| React         | 0%        |
+| Docker        | 0%        |
+| Linux / Bash  | 0%        |
+```
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victormelkor) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/VictorMelkor) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormelkor)
+### 🤝 Redes Sociais e Contato
 
-</div>
+<p align="center">
+  <a href="https://instagram.com/victormelkor" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/VictorMelkor" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/victormelkor" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a><br>
+  <a href="mailto:victor.melkor@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Email-victor.melkor@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5562982147845" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
-<h2 align="center">📊 Estatísticas:</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=dracula&rank_icon=github" style="width: 400px; height: 200px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&layout=compact&size_weight=0&count_weight=1&hide=shell,powershell,batchfile" style="width: 400px; height: 200px;" />
+### 📊 Estatísticas GitHub
 
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=dracula&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&layout=compact&hide=shell,powershell,batchfile"/>
+</p>
