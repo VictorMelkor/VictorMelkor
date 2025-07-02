@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://victormelkor.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-victormelkor.github.io-blue?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-victormelkor.github.io-blue?style=for-the-badge&logo=githubpages&logoColor=white" />     
   </a> 
   <img src="https://img.shields.io/badge/Buscando-Estágio%20e%20Projetos-blueviolet?style=for-the-badge&logo=handshake&logoColor=white" style="margin-left: 10px;" />
 </p>
