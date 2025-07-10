@@ -107,5 +107,5 @@ Atualmente estou estudando e praticando as seguintes tecnologias:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=dracula&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&layout=compact&hide=shell,powershell,batchfile"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&size_weight=0.3&count_weight=0.3&layout=compact&hide=shell,powershell,batchfile"/>
 </p>
