@@ -69,11 +69,11 @@ Atualmente estou estudando e praticando as seguintes tecnologias:
 |---------------|-----------|
 | Python        | 80%       |
 | Django        | 80%       |
-| Git           | 60%       |
-| HTML          | 70%       |
+| Git           | 70%       |
+| HTML          | 80%       |
 | CSS           | 80%       |
 | JavaScript    | 20%       |
-| PostgreSQL    | 5%        |
+| PostgreSQL    | 10%        |
 | React         | 0%        |
 | Docker        | 0%        |
 | Linux / Bash  | 0%        |
