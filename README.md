@@ -106,7 +106,7 @@ Atualmente estou estudando e praticando as seguintes tecnologias:
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=dracula&rank_icon=github"/>
+  <img width="420px" height="180px" src="https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=dracula"/>
   <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&size_weight=0.2&count_weight=0.2&layout=compact&hide=shell,powershell,batchfile"/>
 </p>
 
