@@ -73,7 +73,7 @@ Atualmente estou estudando e praticando as seguintes tecnologias:
 | HTML          | 80%       |
 | CSS           | 80%       |
 | JavaScript    | 20%       |
-| PostgreSQL    | 10%        |
+| PostgreSQL    | 10%       |
 | React         | 0%        |
 | Docker        | 0%        |
 | Linux / Bash  | 0%        |
@@ -106,6 +106,7 @@ Atualmente estou estudando e praticando as seguintes tecnologias:
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=dracula&rank_icon=github"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&size_weight=0.3&count_weight=0.3&layout=compact&hide=shell,powershell,batchfile"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=dracula"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&size_weight=0.2&count_weight=0.2&layout=compact&hide=shell,powershell,batchfile"/>
 </p>
+
