@@ -37,7 +37,7 @@
 Organizo meus aprendizados e anotações no meu repositório de estudos no GitHub: [estudos-fullstack](https://github.com/VictorMelkor/estudos-fullstack).  
 Lá você encontra resumos, projetos pessoais, desafios resolvidos e anotações de cursos técnicos e acadêmicos.
 
-> Estou sempre aberto a sugestões e acredito que ajudar outros desenvolvedores é também uma das melhores formas de aprender 💜
+> Estou sempre aberto a sugestões e acredito que ajudar outros desenvolvedores é também uma das melhores formas de aprender
 
 
 ---
