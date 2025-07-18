@@ -1,113 +1,106 @@
+# 💻 Olá, eu sou o Victor!
+
+<p align="left">
+  Desenvolvedor em formação, buscando criar soluções modernas, acessíveis e com propósito.<br>
+  Atualmente foco meus estudos em <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, com planos de aprofundar em <strong>React</strong> e <strong>Bootstrap</strong> em breve.<br>
+  Também estudo <strong>Python</strong> e <strong>Django</strong> para construir aplicações fullstack e transformar teoria em projetos reais.
+</p>
+
+
+## Sobre mim
+
+- 🧠 Estudante de Análise e Desenvolvimento de Sistemas  
+- 💼 Servidor público em transição de carreira para tecnologia  
+- 📚 Estudando HTML, CSS, JavaScript, com planos de aprofundar em React e Bootstrap  
+- 🐍 Estudando Python e Django para backend e desenvolvimento fullstack  
+- 🥋 Faixa preta de karatê, pai coruja e fã de cultura geek  
+- 🌍 Buscando aplicar meus conhecimentos em projetos reais e contribuir com soluções de impacto positivo  
+
+
+
+---
+
+
+## ⭐ GitHub Stats
+
+<a href="https://github.com/victormelkor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&layout=compact&langs_count=6&theme=radical&count_weight=0.05&size_weight=0.05&hide=powershell,batchfile,shell" />
+
+
+</a>
+
+---
+
+## 📚 Meus estudos
+
+Organizo meus aprendizados e anotações no meu repositório de estudos no GitHub: [estudos-fullstack](https://github.com/VictorMelkor/estudos-fullstack).  
+Lá você encontra resumos, projetos pessoais, desafios resolvidos e anotações de cursos técnicos e acadêmicos.
+
+> Estou sempre aberto a sugestões e acredito que ajudar outros desenvolvedores é também uma das melhores formas de aprender 💜
+
+
+---
+
+## Tecnologias e linguagens 💻
+
+[![Linguagens](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![Frameworks](https://skillicons.dev/icons?i=django,react,bootstrap)](https://skillicons.dev)
+
+### 🗄️ Banco de dados e Containers
+[![DB e Containers](https://skillicons.dev/icons?i=postgres,docker)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
+<p align="left">
+  Atualmente estudo <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, com planos de aprofundar em <strong>React</strong> e <strong>Bootstrap</strong> no front-end.<br>
+  No back-end, foco em <strong>Python</strong> e <strong>Django</strong>. Também exploro tecnologias como <strong>PostgreSQL</strong>, <strong>Docker</strong> e boas práticas de versionamento com <strong>Git</strong>.<br><br>
+  Acredito em aprender fazendo — por isso busco sempre transformar conhecimento em projetos práticos, explorando tanto o lado técnico quanto o criativo da programação.
+</p>
+
+<p align="left">
+  Vamos nos conectar? Me envie um e-mail, chama no WhatsApp ou me segue nas redes! 💌✨
+</p>
+
+
+<p align="left">
+  <a href="https://victormelkor.github.io/" title="Portfólio">
+    <img src="https://img.shields.io/badge/-Portfólio-1f425f?style=flat-square&logo=github&logoColor=white" alt="Portfólio"/>
+  </a>
+  <a href="mailto:victor.melkor@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/victormelkor" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/victormelkor" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/5562982147845" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+
 <div align="center">
-<h1 align="center">Victor Rodrigues 👋</h1>
-<h3 align="center">Desenvolvedor Python | Estudante de ADS | Futuro Fullstack</h3>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=victormelkor.victormelkor&left_color=blueviolet&right_color=purple" width="80" />
+</div>
 
-<p align="center">
-  <a href="https://victormelkor.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-victormelkor.github.io-blue?style=for-the-badge&logo=githubpages&logoColor=white" />     
-  </a> 
-  <img src="https://img.shields.io/badge/Buscando-Estágio%20e%20Projetos-blueviolet?style=for-the-badge&logo=handshake&logoColor=white" style="margin-left: 10px;" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=victormelkor&bg_color=0d1117&color=8257e6&line=38bdf8&point=8257e6&area=true&area_color=38bdf8&hide_border=true" alt="Victor's github activity graph" style="width:80%; height:auto;" />
 
 
----
+  <img src="https://streak-stats.demolab.com?user=victormelkor&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+ 
 
-### 👨‍💻 Sobre mim
+</div>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição de carreira para atuar como desenvolvedor web fullstack.
-
-Atualmente, foco meu aprendizado em Python, Django, JavaScript e React, com o objetivo de construir aplicações modernas, escaláveis e bem estruturadas, tanto no front quanto no back-end.
-
-Tenho interesse especial por boas práticas de código, APIs REST, banco de dados relacionais, automação e ferramentas modernas de desenvolvimento.
-
-Natural de Goiás, atuo como servidor público, sou karateka, entusiasta da cultura geek e pai dedicado. Busco aplicar meu conhecimento em projetos reais, evoluir tecnicamente e colaborar com equipes de tecnologia em soluções que gerem impacto positivo.
-
-<details>
-<summary><strong>English Description</strong></summary>
-
-### 👨‍💻 About me
-
-I am currently a Systems Analysis and Development student, transitioning my career to become a fullstack web developer.
-
-My studies focus on Python, Django, JavaScript, and React, with the goal of building modern, scalable, and well-structured web applications — both front-end and back-end.
-
-I'm particularly interested in clean code practices, REST APIs, relational databases, automation, and modern dev tools.
-
-Originally from Goiás, Brazil, I work as a public servant, practice karate, enjoy geek culture, and am a proud father. I'm constantly seeking to apply my knowledge in real-world projects, improve technically, and contribute to impactful software solutions.
-
-</details>
-
----
-
-### 🛠️ Tecnologias e Ferramentas em Estudo
-
-Atualmente estou estudando e praticando as seguintes tecnologias:
-
-<p align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
-  <!-- Extras -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-</p>
-
----
-
-### 📈 Progresso de Aprendizado
-```
-| Tecnologia    | Progresso |
-|---------------|-----------|
-| Python        | 80%       |
-| Django        | 80%       |
-| Git           | 70%       |
-| HTML          | 80%       |
-| CSS           | 80%       |
-| JavaScript    | 30%       |
-| PostgreSQL    | 10%       |
-| React         | 0%        |
-| Docker        | 0%        |
-| Linux / Bash  | 0%        |
-```
----
-
-### 🤝 Redes Sociais e Contato
-
-<p align="center">
-  <a href="https://instagram.com/victormelkor" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/VictorMelkor" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/victormelkor" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a><br>
-  <a href="mailto:victor.melkor@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Email-victor.melkor@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/5562982147845" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
-
----
-
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=dracula"/>
-  <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&size_weight=0.2&count_weight=0.2&layout=compact&hide=shell,powershell,batchfile"/>
-</p>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8257e6,100:38bdf8"/>
