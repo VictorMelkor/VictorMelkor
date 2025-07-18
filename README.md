@@ -72,7 +72,7 @@ Atualmente estou estudando e praticando as seguintes tecnologias:
 | Git           | 70%       |
 | HTML          | 80%       |
 | CSS           | 80%       |
-| JavaScript    | 20%       |
+| JavaScript    | 30%       |
 | PostgreSQL    | 10%       |
 | React         | 0%        |
 | Docker        | 0%        |
