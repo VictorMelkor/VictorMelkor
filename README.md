@@ -103,4 +103,4 @@ Lá você encontra resumos, projetos pessoais, desafios resolvidos e anotações
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8257e6,100:38bdf8"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8257e6,100:38bdf8"/> 
