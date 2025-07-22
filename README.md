@@ -25,7 +25,7 @@
 
 <a href="https://github.com/victormelkor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=radical"/>
-<img height="180em" src="" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&layout=compact&langs_count=6&theme=radical&count_weight=0.05&size_weight=0.05&hide=powershell,batchfile,shell" />
 
 
 </a>
