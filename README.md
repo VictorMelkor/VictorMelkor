@@ -56,7 +56,7 @@ Lá você encontra resumos, projetos pessoais, desafios resolvidos e anotações
 [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="image.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 <p align="left">
