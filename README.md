@@ -24,8 +24,8 @@
 ## ⭐ GitHub Stats
 
 <a href="https://github.com/victormelkor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=radical"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&layout=compact&langs_count=6&theme=radical&count_weight=0.05&size_weight=0.04&hide=powershell,batchfile,shell" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&layout=compact&langs_count=6&theme=radical&count_weight=0.19&size_weight=0.25&hide=powershell,batchfile,shell" />
 
 
 </a>
@@ -98,7 +98,7 @@ Lá você encontra resumos, projetos pessoais, desafios resolvidos e anotações
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=victormelkor&bg_color=0d1117&color=8257e6&line=38bdf8&point=8257e6&area=true&area_color=38bdf8&hide_border=true" alt="Victor's github activity graph" style="width:80%; height:auto;" />
 
 
-  <img src="https://streak-stats.demolab.com?user=victormelkor&locale=pt-br&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"/> <br/>
+  <img src="https://streak-stats.demolab.com?user=victormelkor&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"/> <br/>
  
 
 </div>
