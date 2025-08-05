@@ -56,7 +56,7 @@ Lá você encontra resumos, projetos pessoais, desafios resolvidos e anotações
 [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
 
 
-<img src="image.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 <p align="left">
@@ -98,7 +98,7 @@ Lá você encontra resumos, projetos pessoais, desafios resolvidos e anotações
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=victormelkor&bg_color=0d1117&color=8257e6&line=38bdf8&point=8257e6&area=true&area_color=38bdf8&hide_border=true" alt="Victor's github activity graph" style="width:80%; height:auto;" />
 
 
-  <img src="https://streak-stats.demolab.com?user=victormelkor&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"/> <br/>
+  <img src="https://streak-stats.demolab.com?user=victormelkor&locale=pt-br&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"/> <br/>
  
 
 </div>
